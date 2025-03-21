@@ -35,7 +35,7 @@ chmod +x sendingcommand.py
 rosrun control data_publisher.py
 rosrun control sendingcommand.py
 ```
-## Dependencies
+## Important packages and dependencies
 #### ROS
 #### SpeechRecognition and PyAudio
 #### TurtleBot3 (if running with Gazebo)
